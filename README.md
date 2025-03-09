@@ -1,9 +1,3 @@
-# Live link --> https://spiffy-llama-b4b726.netlify.app/
-
-# Screenshots --> 
-
-![image](https://github.com/user-attachments/assets/2dc123f8-3dbb-41d2-8bb2-6456bdf43fe5)
-
 # Profile Card Component with Random Quotes
 
 This project is a simple web application that displays random quotes fetched from an API. It features a clean and responsive design, making it suitable for various screen sizes. The application allows users to generate new quotes by clicking a button.
@@ -27,6 +21,12 @@ This project is a simple web application that displays random quotes fetched fro
 - **index.html**: The main HTML file that structures the content of the web page.
 - **style.css**: Contains all the styles for the web page, including layout, colors, and responsive design.
 - **index.js**: Handles the logic for fetching quotes from the API and updating the DOM with new quotes.
+
+## Live link 
+https://spiffy-llama-b4b726.netlify.app/
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/2dc123f8-3dbb-41d2-8bb2-6456bdf43fe5)
 
 ## How to Use
 
