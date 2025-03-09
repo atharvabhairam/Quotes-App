@@ -59,7 +59,3 @@ https://spiffy-llama-b4b726.netlify.app/
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to contribute to the project by submitting issues or pull requests. Enjoy exploring the world of random quotes!
