@@ -22,7 +22,7 @@ This project is a simple web application that displays random quotes fetched fro
 - **style.css**: Contains all the styles for the web page, including layout, colors, and responsive design.
 - **index.js**: Handles the logic for fetching quotes from the API and updating the DOM with new quotes.
 
-## Live link 
+## Live Link 
 [Live Demo](https://spiffy-llama-b4b726.netlify.app/)
 
 
